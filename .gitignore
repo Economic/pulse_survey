@@ -1,0 +1,5 @@
+*.xlsx
+data/puf_csv/*.csv
+data/repwgt_puf_csv/*.csv
+.Rhistory
+.Rproj.user
